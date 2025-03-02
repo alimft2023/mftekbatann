@@ -11,6 +11,7 @@ class Singleton:
 
 s1 = Singleton()
 s2 = Singleton()
+s3 = Singleton()
 
 print(s1 is s2)
 
